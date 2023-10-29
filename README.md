@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mazamin7
 - 👀 I’m interested in sound, music and videogames
-- 🌱 I’m currently learning Acoustic Engineering
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently researching numerical acoustics
+- 💞️ I’m looking to collaborate on numerical simulation
 - 📫 How to reach me Telegram: @mazamin7
 
 <!---
